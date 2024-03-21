@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "pnpm -C packages/sdx-blog dev"
+    "dev": "pnpm -C packages/sdx-blog dev",
+    "build": "pnpm -C packages/sdx-blog build"
   },
   "workspaces": ["packages/*"],
   "keywords": [],
