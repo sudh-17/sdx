@@ -1,0 +1,464 @@
+[
+  {
+    "name": ".vitepress",
+    "type": "directory",
+    "items": [
+      {
+        "name": "cache",
+        "type": "directory",
+        "items": [
+          {
+            "name": "deps",
+            "type": "directory",
+            "items": [
+              {
+                "name": "chunk-XJZ34XUT.js",
+                "type": "file"
+              },
+              {
+                "name": "chunk-XJZ34XUT.js.map",
+                "type": "file"
+              },
+              {
+                "name": "package.json",
+                "type": "file"
+              },
+              {
+                "name": "vitepress___@vueuse_core.js",
+                "type": "file"
+              },
+              {
+                "name": "vitepress___@vueuse_core.js.map",
+                "type": "file"
+              },
+              {
+                "name": "vitepress___@vue_devtools-api.js",
+                "type": "file"
+              },
+              {
+                "name": "vitepress___@vue_devtools-api.js.map",
+                "type": "file"
+              },
+              {
+                "name": "vue.js",
+                "type": "file"
+              },
+              {
+                "name": "vue.js.map",
+                "type": "file"
+              },
+              {
+                "name": "_metadata.json",
+                "type": "file"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "config.mts",
+        "type": "file"
+      },
+      {
+        "name": "dist",
+        "type": "directory",
+        "items": [
+          {
+            "name": "404.html",
+            "type": "file"
+          },
+          {
+            "name": "api-examples.html",
+            "type": "file"
+          },
+          {
+            "name": "assets",
+            "type": "directory",
+            "items": [
+              {
+                "name": "api-examples.md.UCKNuhVh.js",
+                "type": "file"
+              },
+              {
+                "name": "api-examples.md.UCKNuhVh.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "app.xfMsL_vh.js",
+                "type": "file"
+              },
+              {
+                "name": "chunks",
+                "type": "directory",
+                "items": [
+                  {
+                    "name": "framework.jQSxqxcz.js",
+                    "type": "file"
+                  },
+                  {
+                    "name": "theme.TMP8GsMx.js",
+                    "type": "file"
+                  }
+                ]
+              },
+              {
+                "name": "image.v_ok4msF.png",
+                "type": "file"
+              },
+              {
+                "name": "image.ZfRbgeyP.png",
+                "type": "file"
+              },
+              {
+                "name": "image._bSL-fvW.png",
+                "type": "file"
+              },
+              {
+                "name": "index copy.md.ncy_yWiT.js",
+                "type": "file"
+              },
+              {
+                "name": "index copy.md.ncy_yWiT.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "index.md.BptTjZMF.js",
+                "type": "file"
+              },
+              {
+                "name": "index.md.BptTjZMF.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-cyrillic-ext.OVycGSDq.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-cyrillic.-nLMcIwj.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-greek-ext.hznxWNZO.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-greek.PSfer2Kc.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-latin-ext.RnFly65-.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-latin.27E69YJn.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-italic-vietnamese.xzQHe1q1.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-cyrillic-ext.8T9wMG5w.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-cyrillic.jIZ9REo5.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-greek-ext.9JiNzaSO.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-greek.Cb5wWeGA.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-latin-ext.GZWE-KO4.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-latin.bvIUbFQP.woff2",
+                "type": "file"
+              },
+              {
+                "name": "inter-roman-vietnamese.paY3CzEB.woff2",
+                "type": "file"
+              },
+              {
+                "name": "js基础_test.md.4Pgwfg9X.js",
+                "type": "file"
+              },
+              {
+                "name": "js基础_test.md.4Pgwfg9X.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "js基础_什么是原型.md.ipP3N2y4.js",
+                "type": "file"
+              },
+              {
+                "name": "js基础_什么是原型.md.ipP3N2y4.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "markdown-examples.md.Rz5WgVnU.js",
+                "type": "file"
+              },
+              {
+                "name": "markdown-examples.md.Rz5WgVnU.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "re.md.NkrV8wKN.js",
+                "type": "file"
+              },
+              {
+                "name": "re.md.NkrV8wKN.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "route_bar.md.3rYLjiRX.js",
+                "type": "file"
+              },
+              {
+                "name": "route_bar.md.3rYLjiRX.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "route_foo.md.uhU2tN3M.js",
+                "type": "file"
+              },
+              {
+                "name": "route_foo.md.uhU2tN3M.lean.js",
+                "type": "file"
+              },
+              {
+                "name": "style.g0R1BVNC.css",
+                "type": "file"
+              },
+              {
+                "name": "yiyan-NewYear.HmWqFV57.jpg",
+                "type": "file"
+              }
+            ]
+          },
+          {
+            "name": "hashmap.json",
+            "type": "file"
+          },
+          {
+            "name": "index copy.html",
+            "type": "file"
+          },
+          {
+            "name": "index.html",
+            "type": "file"
+          },
+          {
+            "name": "js基础",
+            "type": "directory",
+            "items": [
+              {
+                "name": "test.html",
+                "type": "file"
+              },
+              {
+                "name": "什么是原型.html",
+                "type": "file"
+              }
+            ]
+          },
+          {
+            "name": "markdown-examples.html",
+            "type": "file"
+          },
+          {
+            "name": "re.html",
+            "type": "file"
+          },
+          {
+            "name": "route",
+            "type": "directory",
+            "items": [
+              {
+                "name": "bar.html",
+                "type": "file"
+              },
+              {
+                "name": "foo.html",
+                "type": "file"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "layouts",
+        "type": "directory",
+        "items": [
+          {
+            "name": "Basic.vue",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "sidebar.js",
+        "type": "file"
+      },
+      {
+        "name": "theme",
+        "type": "directory",
+        "items": [
+          {
+            "name": "index.ts",
+            "type": "file"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "api-examples.md",
+    "type": "file"
+  },
+  {
+    "name": "components",
+    "type": "directory",
+    "items": [
+      {
+        "name": "MyTag.vue",
+        "type": "file"
+      },
+      {
+        "name": "TextPanel.vue",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "data",
+    "type": "directory",
+    "items": [
+      {
+        "name": "example.data.js",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "images",
+    "type": "directory",
+    "items": [
+      {
+        "name": "image.png",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "img",
+    "type": "directory",
+    "items": [
+      {
+        "name": "image-1.png",
+        "type": "file"
+      },
+      {
+        "name": "image-2.png",
+        "type": "file"
+      },
+      {
+        "name": "image.png",
+        "type": "file"
+      },
+      {
+        "name": "yiyan-NewYear-1.jpg",
+        "type": "file"
+      },
+      {
+        "name": "yiyan-NewYear.jpg",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "index copy.md",
+    "type": "file"
+  },
+  {
+    "name": "index.md",
+    "type": "file"
+  },
+  {
+    "name": "js基础",
+    "type": "directory",
+    "items": [
+      {
+        "name": "images",
+        "type": "directory",
+        "items": [
+          {
+            "name": "image.png",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "sub",
+        "type": "directory",
+        "items": [
+          {
+            "name": "手写防抖.md",
+            "type": "file"
+          }
+        ]
+      },
+      {
+        "name": "test.md",
+        "type": "file"
+      },
+      {
+        "name": "uu.md",
+        "type": "file"
+      },
+      {
+        "name": "什么是原型.md",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "markdown-examples.md",
+    "type": "file"
+  },
+  {
+    "name": "public",
+    "type": "directory",
+    "items": [
+      {
+        "name": "duyi.png",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "name": "re.md",
+    "type": "file"
+  },
+  {
+    "name": "route",
+    "type": "directory",
+    "items": [
+      {
+        "name": "[r1].md",
+        "type": "file"
+      },
+      {
+        "name": "[r1].paths.ts",
+        "type": "file"
+      }
+    ]
+  }
+]

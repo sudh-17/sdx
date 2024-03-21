@@ -1,0 +1,13 @@
+{
+  "name": "sdx-note-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm -C packages/sdx-blog dev"
+  },
+  "workspaces": ["packages/*"],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
