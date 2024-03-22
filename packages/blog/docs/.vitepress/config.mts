@@ -28,7 +28,7 @@ export default defineConfig({
   },
 
   // 基础路由
-  base: '/sdx-blog/',
+  base: '/sdx/blog/',
   markdown: {
     // 开启行号（默认禁用）
     lineNumbers: true,
