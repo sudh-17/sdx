@@ -8,7 +8,7 @@ importers:
 
   .: {}
 
-  packages/sdx-blog:
+  packages/blog:
     devDependencies:
       vitepress:
         specifier: 1.0.0-rc.42

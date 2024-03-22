@@ -1,12 +1,12 @@
 {
-  "name": "sdx-note-plus",
+  "name": "sdx",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "packageManager": "pnpm@8.14.0",
   "scripts": {
-    "dev": "pnpm -C packages/sdx-blog dev",
-    "build": "pnpm -C packages/sdx-blog build"
+    "dev": "pnpm -C packages/blog dev",
+    "build": "pnpm -C packages/blog build"
   },
   "workspaces": ["packages/*"],
   "keywords": [],
