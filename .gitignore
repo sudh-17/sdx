@@ -25,4 +25,5 @@ pnpm-debug.log*
 /docs/.vitepress/cache
 **/.vitepress/dist
 **/.vitepress/cache
-/out
+/out/*
+!/out/index.html
