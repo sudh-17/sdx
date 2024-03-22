@@ -47,7 +47,8 @@ jobs:
       - name: Build with VitePress
         run: |
           pnpm run build #npm run build # 或 pnpm docs:build / yarn docs:build / bun run docs:build
-          touch packages/blog/docs/.vitepress/dist/.nojekyll
+          # touch packages/blog/docs/.vitepress/dist/.nojekyll
+          touch out/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
